@@ -1,5 +1,0 @@
-*salut (le bot repondra bonjour)
-*play (lienytb) joue nimporte quelle musique avec le module "ytdlcore"
-
-le bot s'occupe de mettre les roles automatiquement , il vous suffira juste de changer  l'id du role a mettre dans le fichier index.json le bot est programmé pour mon discord a vous de changer les valeurs que vous voulez
- :) , il est aussi capable de compter combien de membres vous etes sur votre discord des l'arrivée d'un nouveau membre pareil , il vous faudra remplacer les valeurs des channels par les votres :) .
